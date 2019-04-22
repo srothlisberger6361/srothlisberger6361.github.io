@@ -87,6 +87,32 @@ body{
     padding-bottom: 10px;
     display:block;
 }
+
+
+
+.service img{
+    display: inline;
+    height:40%;
+    margin:5px;  
+}
+.service {
+  
+    width:100%;
+    padding: 30px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+    background: #fff;
+    
+    
+}
+.service small{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display:block;
+}
+
+
 .form-box{
     margin-top:30px;
     
