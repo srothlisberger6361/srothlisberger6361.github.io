@@ -9,11 +9,11 @@ body{
     font-family:sans-serif;
 }
 .profile-img {
-    width: 36%;
     float:right;
     
 }
 .profile-img img {
+    width:36%;
     height: 100%;
 }
 .about{
