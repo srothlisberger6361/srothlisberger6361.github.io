@@ -12,12 +12,13 @@ body{
    
     max-width:10%;
     height: 70%;
-    
+    float:right;
 }
 .profile-img img {
   
    max-width:10%;
     height: 70%;
+    float:right;
 }
 .about{
     margin-left: 15px;
