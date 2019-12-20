@@ -9,14 +9,14 @@ body{
     font-family:sans-serif;
 }
 .profile-img {
-  
-    float:right;
+    width: 36%;
+    margin-right:80px;
+
     
 }
 .profile-img img {
-    height: 360px;
-    max-width:100%;
-    max-height: 100%;
+    width: 25%;
+    height: 25%;
 }
 .about{
     margin-left: 15px;
