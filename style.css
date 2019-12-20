@@ -13,6 +13,7 @@ body{
     
 }
 .profile-img img {
+    width: 36%;
     max-width:700%;
     max-height: 90%;
    
