@@ -10,12 +10,14 @@ body{
 }
 .profile-img {
    
-    width:70%;
+     width:50%;
     height: 70%;
     float:right;
 }
 .profile-img img {
-  
+    width:50%;
+    height: 70%;
+    float:right;
    
 }
 .about{
