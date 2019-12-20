@@ -10,7 +10,7 @@ body{
 }
 .profile-img {
    
-    width:70%;
+    max-width:20%;
     height: 70%;
     
 }
