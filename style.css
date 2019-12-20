@@ -11,7 +11,7 @@ body{
 .profile-img {
     
    float:right;
-    
+   margin-right: 200px;
 }
 .profile-img img {
     width: 36px;
