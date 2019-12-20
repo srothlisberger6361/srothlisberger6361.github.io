@@ -11,6 +11,13 @@ body{
 .profile-img {
     width: 36%;
     float: right;
+    
+    padding: 30px 10px;
+    margin: 2%;
+    text-align:center;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+    background: #fff;
+    
 }
 .profile-img img {
     width: 100%;
