@@ -14,10 +14,11 @@ body{
     
 }
 .profile-img img {
-    width: 36%;
-    max-width:700%;
+    width: 36px;
+    height: 36px
+    max-width:200%;
     max-height: 90%;
-   float:right;
+    float:right;
 }
 .about{
     margin-left: 15px;
