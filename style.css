@@ -19,6 +19,7 @@ body{
     max-width:200%;
     max-height: 90%;
     float:right;
+    margin-left: 15px;
 }
 .about{
     margin-left: 15px;
