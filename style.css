@@ -10,6 +10,7 @@ body{
 }
 .profile-img {
     
+    float:left;
     
 }
 .profile-img img {
