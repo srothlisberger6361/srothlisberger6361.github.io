@@ -93,6 +93,7 @@ body{
 .service img{
     display: inline;
     height:40%;
+    width: 95%;
     margin:5px;  
 }
 .service {
