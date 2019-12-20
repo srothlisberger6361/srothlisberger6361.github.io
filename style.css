@@ -16,8 +16,6 @@ body{
 .profile-img img {
     width: 200px;
     height: 200px;
-    max-width:200%;
-    max-height: 90%;
     float:right;
     margin-right: 15px;
 }
