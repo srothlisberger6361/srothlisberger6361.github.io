@@ -11,13 +11,13 @@ body{
 .profile-img {
     width: 36%;
     float: right;
-    margin-right:10px;
+    margin-right:20px;
     
     
 }
 .profile-img img {
     width: 100%;
-    min-height:50%;
+    max-height:60%;
     
 }
 .about{
