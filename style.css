@@ -17,7 +17,7 @@ body{
 }
 .profile-img img {
     width: 100%;
-    max-height: 150px;
+    height: 75%;
 }
 .about{
     margin-left: 15px;
