@@ -19,7 +19,10 @@ body{
     margin-right: 15px;
 }
 #2ndpic {
-    
+    width: 95%;
+    max-height:600px;
+    height: 75%;
+    margin-right: 15px;
 
 }
 
