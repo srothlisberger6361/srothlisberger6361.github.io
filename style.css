@@ -11,9 +11,6 @@ body{
 .profile-img {
     width: 36%;
     float: right;
-    
-    
-    
 }
 .profile-img img {
     width: 95%;
@@ -21,6 +18,11 @@ body{
     height: 75%;
     margin-right: 15px;
 }
+#2ndpic {
+    
+
+}
+
 .about{
     margin-left: 15px;
 }
