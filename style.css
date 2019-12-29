@@ -15,7 +15,7 @@ body{
 .profile-img img {
     width: 95%;
     max-height:600px;
-    height: 70%;
+    height: 75%;
     margin-right: 15px;
 }
 #2ndpic {
@@ -27,7 +27,7 @@ body{
 }
 #3rdpic {
     width: 95%;
-    max-height:500px;
+    max-height:400px;
     height: 15%;
     margin-right: 15px;
 
